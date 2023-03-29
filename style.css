@@ -1,0 +1,50 @@
+ body{
+    background-color: black;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+  
+    
+    
+  }
+  
+  img {
+    border: 0.2rem solid black;
+    border-radius: 50% ;
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: left;
+  }
+  
+  a {
+    color: #0066CC;
+    text-decoration: none;
+  }
+  
